@@ -1,3 +1,12 @@
+/********************************************************************************
+ * 	Moon Project																*
+ *																				*
+ *																				*
+ *  Constants File																*
+ *	Author: João Matheus Siqueira Souza (jmssouza)								*
+ *																				*
+ *  December 17th, 2019															*
+ ********************************************************************************/
 #ifndef JM_CONSTANTS_H_
 #define JM_CONSTANTS_H_
 
